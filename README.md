@@ -1,4 +1,4 @@
-# KI-367339
+# KI-520322
 
 This script solves the KI https://vtexhelp.zendesk.com/agent/tickets/520322
 

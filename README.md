@@ -1,4 +1,4 @@
-# KI-520322
+# [KI-520322] Price divergence between the values of the scheduled delivery with what is shown in the cart and in the summaries
 
 This script solves the KI https://vtexhelp.zendesk.com/agent/tickets/520322
 
